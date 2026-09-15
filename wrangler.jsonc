@@ -1,0 +1,10 @@
+﻿{
+  // Worker 名称：必须与你在 Cloudflare 表单里填的项目名一致
+  "name": "myblog",
+  // 兼容性日期：填一个今天或更早的日期
+  "compatibility_date": "2026-09-01",
+  // 静态资源目录：hexo generate 的输出目录
+  "assets": {
+    "directory": "./public"
+  }
+}
