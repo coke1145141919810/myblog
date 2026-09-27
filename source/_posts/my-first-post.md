@@ -2,6 +2,8 @@
 title: 我真的卡了......吗？
 date: 2026-09-14 20:18:40
 tags:
+cover: /img/pixiv1.jpg 
+top_img: /img/pixiv1.jpg
 ---
 我勒个雷，不是这个博客怎么这么难搭建啊。
 我昨天也是发烧了好吧，跟着B站教学加上询问deepseek做了一天，还是卡了好吧。

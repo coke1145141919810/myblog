@@ -2,6 +2,8 @@
 title: 也是成功改进了一下界面
 date: 2026-09-14 21:40:14
 tags:
+cover: /img/pixiv4.jpg     
+top_img: /img/pixiv4.jpg
 ---
 孩子们，经过deepseek的不懈努力，我也是成功将blog美化了一波。
 这个主题叫做Butterfly，也是和各位帅哥美女们的保持一致了。
